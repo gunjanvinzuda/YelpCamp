@@ -44,7 +44,7 @@ Follow these steps to set up the project locally.
 
 4. **Start the Application**:
    ```
-   npm start
+   node app.js
    ```
 
 5. Open your browser and go to http://localhost:3000 to access the application.
