@@ -1,4 +1,4 @@
-# Camping Sites Portal
+# YelpCamp
 
 A web application built using Node.js, Express, and MongoDB, allowing users to share and explore camping sites. Users can register, log in, and post information about camping sites, including a title, image, and description. They can also edit or delete their posts, add comments on posts, and edit their comments.
 
